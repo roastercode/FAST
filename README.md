@@ -1,4 +1,4 @@
-# FAST -Forensic Analyser Scanner Toolkit
+# FAST - Forensic Analyser Scanner Toolkit
 GPLv2 or later - aurelien@hackers.camp - Aurelien DESBRIERES
 
 
