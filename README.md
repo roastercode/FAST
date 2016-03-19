@@ -19,8 +19,10 @@ GPLv2 or later - aurelien@hackers.camp - Aurelien DESBRIERES
  
 ### What it does:
 
+	- Analysis of the Network
 	- Full scan of up to date antiviral solution + log
 	  (on all different filesystem type you already have)
 	- Log your firewall settings
 	- Full scan and log of the communication of the machine
+	- List all your log
 	- + More coming during elaboration of the software ;-)
