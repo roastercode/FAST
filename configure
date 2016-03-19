@@ -44,7 +44,7 @@ else
 fi
 # apt - Debian - Trisquel
 if command_exists apt-get ; then
-    sudo apt-get install clamav clamav-update
+    sudo apt-get install clamav clamav-base clamav-freshclam clamdscan
 fi
 # pacman - Archlinux - Parabola
 if command_exists pacman ; then
