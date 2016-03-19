@@ -66,6 +66,6 @@ printf "\033[1;32mResult of the virus scan:\033[0m\n$virusscan\n" | tee -a /home
 ## Log analysis
 ### list all log of the machin
 printf "\n\033[1;32mList of all your log on $hostname:\033[0m\n"
-sudo ls -lait /var/log/ | tee -a /home/$the_user/FAST/fast-report-log-list-of-$hostname
+sudo ls -lait /var/log/ | tee -a /home/$the_user/FAST/fast-report-log-list-of-$the_machine
 
 }
