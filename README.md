@@ -2,7 +2,7 @@
 GPLv2 or later - aurelien@hackers.camp - Aurelien DESBRIERES
 
 
-## This software is a toolkit for forensic analyse.
+## This software is a toolkit for forensic analysis.
 
 ### It is made to works on:
 
