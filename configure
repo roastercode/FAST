@@ -48,7 +48,7 @@ if command_exists apt-get ; then
 fi
 # pacman - Archlinux - Parabola
 if command_exists pacman ; then
-    sudo pacman -Sy clamav gawk wireless_tools
+    sudo pacman -Sy clamav gawk wireless_tools iw
 fi
 # apt - Rooted smartphone
 if command_exists apt ; then
